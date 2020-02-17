@@ -25,7 +25,7 @@
             </array>
         </config-file>
         <config-file target="*-Info.plist" parent="UIRequiresFullScreen">
-            <string>YES</string>
+            <string>NO</string>
         </config-file>
     </platform>
 </plugin>
